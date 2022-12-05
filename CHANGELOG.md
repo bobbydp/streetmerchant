@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.8.4](https://github.com/jef/streetmerchant/compare/v3.8.3...v3.8.4) (2022-12-05)
+
+
+### Bug Fixes
+
+* update Target's url for PS5 Console ([#3098](https://github.com/jef/streetmerchant/issues/3098)) ([5eb7c12](https://github.com/jef/streetmerchant/commit/5eb7c126300a3d86cdafc0b73f3765fffcfdcf2d))
+
 ## [3.8.3](https://github.com/jef/streetmerchant/compare/v3.8.2...v3.8.3) (2022-11-28)
 
 
